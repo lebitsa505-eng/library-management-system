@@ -4,8 +4,3 @@
 4. Run: npm run dev
 5. Test: Dashboard, Book Management, Transactions and User Management.
 6. Demo login: ADM001 / admin123
-7. Run: npm run build
-8. Create a GitHub repository and push this folder.
-9. Submit the GitHub repository URL.
-
-The app uses browser Local Storage and includes sample data so it is ready to demonstrate immediately.
